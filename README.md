@@ -1,20 +1,18 @@
 # Tesla Supercharger Station Locations
 
-## Project description
+## Project Overview
 
-The overall goal is for the user to be able to press buttons randomly using the InputData scene. This data requires security (i.e. encrypted in transmission and at rest). In other words, you cannot store this information in a plain txt but can remain in RAM. Once the user has pressed the buttons, they can see their results in the StatsDisplay scene. Here, the user can clear their data and/or return to the InputData scene to add more data. 
+The overall of this project is to scrape the Tesla website for Supercharger station locations and create a `.csv` file of these data points.  This repository was created for the DSCI 511 course at Drexel University
 
-### Requirements:
-- Accurately collect user inputs from the buttons.
-- Manage user data between scenes securely.
-- Display the user's button pressing "progress" in some way besides just text.
+### Team Members
 
-### Notes:
-- You can use any free asset you want.
-- You can add to the README to justify any design decisions you made.
-- Feel free to ask me questions if you have them. Our team will typically work like this, just message me whenever you need.
-- You can tear apart/redo the scenes, they're just placeholders for clarity of project requirements. 
+- Ashley Zuir,
 
+- Shoshone Smith,
+
+- Wesley Marshall, 
+
+- Zach Carlson, zc378@drexel.edu
 
 ### Design
 
