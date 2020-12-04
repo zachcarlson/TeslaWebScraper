@@ -41,7 +41,7 @@ Our team consists of the following individuals:
     - `import csv`
     - `import re`
 - Our code will scrape Tesla’s website for Supercharger locations and then export those locations to a `.csv` file.
-    - NOTE: Make sure to place this `.csv` file into the data folder of the project for the verifier function to work. 
+    - _**NOTE: Make sure to place this `.csv` file into the data folder of the project for the verifier function to work.**_ 
     - By default, the Federal Dataset `.csv` file needs to be located in the data folder. It should be there already.
 
 ## Results of Code:
