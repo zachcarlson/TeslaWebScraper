@@ -60,7 +60,7 @@ Barstow Supercharger,Barstow,CA,92311,2812 Lenwood Road
 "Berkeley, CA (coming soon)",Berkeley,CA,No zipcode,No address given
 "Beverly Hills, CA (coming soon)",Beverly Hills,CA,No zipcode,No address given
 "Big Sur, CA - Ventana Supercharger",Big Sur,CA,93920,48123 Highway 1
-"Bishop, CA (coming soon)",Bishop,CA,No zipcode,No address given
+"Bishop, CA Supercharger",Bishop,CA,93514,151 South Warren Street
 "Brea, CA (coming soon)",Brea,CA,No zipcode,No address given
 "Buellton, CA Supercharger",Buellton,CA,93427,555 McMurray Rd
 Buena Park,Buena Park,CA,90621,6692 Auto Center Drive
@@ -84,6 +84,7 @@ Cabazon Supercharger,Cabazon,CA,92230,48400 Seminole Drive
 "Costa Mesa, CA (coming soon)",Costa Mesa,CA,No zipcode,No address given
 Crescent City Supercharger,Crescent City,CA,95531,1000 Front Street
 Culver City Supercharger,Culver City,CA,90230,6000 Sepulveda Blvd.
+"Cupertino, CA - Stevens Creek Boulevard Supercharger",Cupertino,CA,95014,20745 Stevens Creek Boulevard
 "Cupertino, CA Supercharger",Cupertino,No state,95014-0000,19500 Vallco Parkway
 "Daly City, CA Supercharger",Daly City,CA,94015,3 Serramonte Center
 "Dana Point, CA (coming soon)",Dana Point,CA,No zipcode,No address given
@@ -97,8 +98,8 @@ El Centro Supercharger,El Centro,CA,92243,3551 S Dogwood Rd
 "El Cerrito, CA (coming soon)",El Cerrito,CA,No zipcode,No address given
 "El Cerrito, CA Supercharger",El Cerrito,CA,94530,280 El Cerrito Plaza
 "Elk Grove, CA - Elk Grove Blvd Supercharger",Elk Grove,CA,95758,8451 Elk Grove Boulevard
-"Emeryville, CA (coming soon)",Emeryville,CA,No zipcode,No address given
 "Emeryville, CA - Powell Street Plaza Supercharger",Emeryville,CA,94608,5795 Christie Avenue
+"Emeryville, CA Supercharger",Emeryville,CA,94608,5959 Shellmound Street
 "Escondido, CA (coming soon)",Escondido,CA,No zipcode,No address given
 Eureka Supercharger,Eureka,CA,95501,3300 Broadway St.
 "Fairfield, CA - Holiday Lane Supercharger",Fairfield,CA,94534,1350 Holiday Lane
@@ -111,8 +112,10 @@ Fish Camp Supercharger,Fish Camp,CA,93623,1122 Highway 41
 Fountain Valley Supercharger,Fountain Valley,CA,92708,17940 Newhope St
 Fremont,Fremont,CA,94538,45500 Fremont Blvd
 "Fremont, CA - 39201 Fremont Blvd Supercharger",Fremont,CA,94538-1301,39201 Fremont Blvd
+"Fremont, CA - Pacific Commons Boulevard Supercharger",Fremont,CA,94538,43950 Pacific Commons Boulevard
 Fresno Supercharger,Fresno,CA,93722,6709 N Riverside Dr
-"Fresno, CA (coming soon)",Fresno,CA,No zipcode,No address given
+"Fresno, CA - North Riverside Drive Supercharger",Fresno,CA,93722,5001 North Riverside Drive
+"Gilroy, CA - Camino Arroyo Supercharger",Gilroy,CA,Gilroy,6705 Camino Arroyo
 "Gilroy, CA Supercharger",Gilroy,CA,95020,Gilroy Premium Outlets
 "Glendale, CA Supercharger",Glendale,CA,91210,899 Americana Way
 "Goleta, CA Supercharger",Goleta,CA,93117,7004 Marketplace Drive
@@ -125,7 +128,7 @@ Harris Ranch Supercharger,Coalinga,CA,93210,24505 W Dorris Ave
 "Hawthorne, CA - West 120th Street Supercharger",Hawthorne,CA,90250,2700 West 120th Avenue
 "Hayward, CA Supercharger",Hayward,CA,94541,19661 Hesperian Boulevard
 "Hermosa Beach, CA Supercharger",Hermosa Beach,CA,90254,710 16th St.
-"Hesperia, CA (coming soon)",Hesperia,CA,No zipcode,No address given
+"Hesperia, CA Supercharger",Hesperia,CA,92345,12795 Main Street
 "Highland, CA (coming soon)",Highland,CA,No zipcode,No address given
 "Hollister, CA Supercharger",Hollister,CA,95023-9541,10021 Pacheco Pass Hwy
 "Hollywood, CA (coming soon)",Hollywood,CA,No zipcode,No address given
@@ -167,7 +170,7 @@ Manteca Supercharger,Manteca,CA,95337,960 Perimeter Dr
 Mojave Supercharger,Mojave,CA,93501,16940 California 14
 "Mojave, CA (coming soon)",Mojave,CA,No zipcode,No address given
 "Montebello, CA (coming soon)",Montebello,CA,No zipcode,No address given
-Monterey Supercharger,Monterey,CA,93940-6168,1410 Del Monte Center
+"Monterey, CA Supercharger",Monterey,CA,93940-6168,1410 Del Monte Center
 Monterey-Seaside,Seaside,CA,93955,1901 Del Monte Blvd
 "Moreno Valley, CA (coming soon)",Moreno Valley,CA,No zipcode,No address given
 "Morgan Hill, CA Supercharger",Morgan Hill,CA,95037,1061 Cochrane Road
@@ -182,7 +185,7 @@ Needles Supercharger,Needles,CA,92363,2451 Needles HWY
 "Newell, CA (coming soon)",Newel,CA,No zipcode,No address given
 "Northridge, CA (coming soon)",Northridge,CA,No zipcode,No address given
 "Novato, CA Supercharger",Novato,CA,94945,208 Vintage Way
-"Oakland, CA (coming soon)",Oakland,CA,No zipcode,No address given
+"Oakland, CA - 2nd Street Supercharger",Oakland,CA,94607,255 2nd Street
 "Oakland, CA - Hegenberger Rd Supercharger",Oakland,CA,94621,640 Hegenberger Road
 "Ojai, CA Supercharger",Ojai,CA,93023,987 West Ojai Avenue
 "Ontario, CA (coming soon)",Ontario,CA,No zipcode,No address given
@@ -225,6 +228,7 @@ Sacramento-Rocklin,Rocklin,CA,95677,4361 Granite Drive
 "San Clemente, CA Supercharger",San Clemente,CA,92672-7706,101 West Avenida Vista Hermosa
 San Diego Supercharger,San Diego,CA,92121,10155 Pacific Heights Blvd
 "San Diego, CA - A Street Supercharger",San Diego,CA,92101,1350 6th Avenue
+"San Diego, CA - Balboa Ave Supercharger",San Diego,CA,92111,5617 Balboa Avenue
 "San Diego, CA - Camino Del Sur Supercharger",San Diego,CA,92127,17170 Camino Del Sur
 "San Diego, CA - Del Mar Heights Road Supercharger",San Diego,CA,92014,3275 Del Mar Heights Road
 "San Diego, CA - Friars Road Supercharger",San Diego,CA,92108,7007 Friars Road
@@ -253,6 +257,7 @@ San Mateo Supercharger,San Mateo,CA,94403,1200 Park Place
 "San Ramon, CA Supercharger",San Ramon,CA,94583,2610 Bishop Drive
 "San Ysidro, CA (coming soon)",San Ysidro,CA,No zipcode,No address given
 Santa Ana Supercharger,Santa Ana,CA,92705-6607,2800 N. Main Street
+"Santa Ana, CA - East 5th Street Supercharger",Santa Ana,CA,92701,300 East 5th Street
 "Santa Barbara, CA (coming soon)",Santa Barbara,CA,No zipcode,No address given
 "Santa Clara, CA (coming soon)",Santa Clara,CA,No zipcode,No address given
 "Santa Clara, CA Supercharger",Santa Clara,CA,95054,3945 Rivermark Plaza
@@ -276,7 +281,7 @@ Tejon Ranch Supercharger,Lebec,CA,93243,5602 Dennis McCarthy Dr
 Temecula Supercharger,Temecula,CA,92591,40820 Winchester Rd.
 "Thousand Oaks, CA - East Thousand Oaks Boulevard Supercharger",Thousand Oaks,No state,91362,4000 East Thousand Oaks Boulevard
 "Thousand Oaks, CA - West Hillcrest Drive Supercharger",Thousand Oaks,CA,91360,350 West Hillcrest Drive
-"Traver, CA (coming soon)",Traver,CA,No zipcode,No address given
+"Traver, CA Supercharger",Traver,CA,93673,36005 CA-99
 Truckee Brockway Road Supercharger,Truckee,CA,96161,11209 Brockway Road
 Truckee Donner Pass Supercharger,Truckee,CA,96161,11290 Donner Pass Rd
 "Tustin, CA (coming soon)",Tustin,CA,No zipcode,No address given
@@ -295,7 +300,8 @@ Vacaville Supercharger,Vacaville,CA,95687,321 Nut Tree Road
 "Westminster, CA Supercharger",Westminster,CA,92683,1025 Westminster Mall
 "Westwood, CA (coming soon)",Westwood,CA,No zipcode,No address given
 "Williams, CA Supercharger",Williams,CA,95987,464 6th Street
-"Woodland, CA (coming soon)",Woodland,CA,No zipcode,No address given
+"Woodland, CA Supercharger",Woodland,CA,95776,2185 Bronze Star Drive
+"Woodland, CA Supercharger #2",Woodland,CA,95776,2185 Bronze Star Drive
 "Yermo, CA Supercharger",Yermo,CA,92398,36017 Calico Road
 "Yuba City, CA Supercharger",Yuba City,CA,95993,1475 Tharp Road
 "Alamosa, CO (coming soon)",Alamosa,CO,No zipcode,No address given
@@ -320,7 +326,8 @@ Colorado Springs Supercharger,Colorado Springs,CO,80903,215 North Cascade Avenue
 Loveland Supercharger,Loveland,CO,80538-9347,4705 Clydesdale Parkway
 "Montrose, CO (coming soon)",Montrose,CO,No zipcode,No address given
 "Poncha Springs, CO Superchargers",Poncha Springs,CO,81242-0000,6250 US Highway 285
-"Silverthorne, CO Supercharger",Silverthorne,CO,80498,309 Rainbow Dr
+"Silverthorne, CO Supercharger",Silverthorne,CO,80498-0497,246-V Rainbow Dr
+"Silverthorne, CO Supercharger #2",Silverthorne,CO,80498,309 Rainbow Dr
 "Steamboat Springs, CO (coming soon)",Steamboat Springs,CO,No zipcode,No address given
 "Superior, CO - South Marshall Road Supercharging",Superior,CO,80027,2 South Marshall Road
 "Telluride, CO (coming soon)",Telluride,CO,No zipcode,No address given
@@ -361,8 +368,8 @@ West Hartford Supercharger,West Hartford,CT,6110,1445 New Britain Ave.
 "Lewes, DE Supercharger",Lewes,DE,19958-4203,17663 Dartmouth Drive
 Newark Supercharger,Newark,DE,19725,530 JFK Memorial Highway
 "Columbia Heights, DC (coming soon)",Columbia Heights,No state,,No address given
-"Washington NE, DC (coming soon)",Washington NE,No state,,No address given
 "Washington SE, DC (coming soon)",Washington SE,No state,,No address given
+"Washington, DC - Market Street NE Supercharger",Washington,DC,20018,2438 Market Street NE
 "Washington, DC Supercharger",Washington,DC,20007,1855 Wisconsin Ave NW
 "Altamonte Springs, FL Supercharger",Altamonte Springs,FL,32701,355 East Altamonte Drive
 "Aventura, FL Supercharger",Aventura,FL,33180,19501 Biscayne Boulevard
@@ -409,7 +416,7 @@ Naples Supercharger,Naples,FL,34102-6454,499 Bayfront Place
 "Ochopee, FL Supercharger",Ochopee,FL,34141,47801 West State Road 84
 "Orlando, FL - North Alafaya Trail Supercharger",Orlando,FL,32828,413 North Alafaya Trail
 "Orlando, FL - W. Sand Lake Rd Supercharger",Orlando,FL,32819-8902,6500 West Sand Lake Road
-"Palm Coast, FL  (coming soon)",Palm Coast,FL,No zipcode,No address given
+"Palm Coast, FL Supercharger",Palm Coast,FL,32164,5600 State Rd 100 E
 "Panama City Beach, FL Supercharger",Panama City Beach,FL,32413,14100 Panama City Beach Parkway
 "Pembroke Pines, FL Supercharger",Pembroke Pines,FL,33027,14804-14954 Pines Boulevard
 "Pensacola, FL (coming soon)",Pensacola,FL,No zipcode,No address given
@@ -476,7 +483,7 @@ Twin Falls Supercharger,Twin Falls,ID,83301,2015 Neilsen Point Place
 "Chicago, IL - North Halsted Supercharger",Chicago,IL,60642,1457 N Halsted St.
 "Chicago, IL - O'Hare Supercharger",Chicago,IL,60666,Building 840 Chicago O'Hare International Airport
 "Chicago, IL - South Canal Street Supercharger",Chicago,IL,60607,1100 South Canal Street
-"Chicago, IL – Bridgeport (coming soon)",Bridgeport,IL,No zipcode,No address given
+"Chicago, IL â€“ Bridgeport (coming soon)",Bridgeport,IL,No zipcode,No address given
 "Collinsville, IL (coming soon)",Collinsville,IL,No zipcode,No address given
 "Country Club Hills, IL Supercharger",Country Club Hills,IL,60478,4201 167th St.
 "Dwight, IL (coming soon)",Dwight,IL,No zipcode,No address given
@@ -627,7 +634,7 @@ Lee Supercharger,Lee,MA,1238,10 Pleasant St.
 "Waltham, MA (coming soon)",Waltham,MA,No zipcode,No address given
 "Wareham, MA Supercharger",Wareham,MA,02571,2421 Cranberry HIghway
 West Springfield Supercharger,West Springfield,MA,1089,935 Riverdale Street
-"Compostela, NYR Supercharger",Nayarit,CA,63700,Kilómetro 38 + 690 lado derecho de la carretera Federal 200 Tepic
+"Compostela, NYR Supercharger",Nayarit,CA,63700,KilÃ³metro 38 + 690 lado derecho de la carretera Federal 200 Tepic
 Ann Arbor Supercharger,Ann Arbor,MI,48103,3145 Ann Arbor-Saline Road
 "Auburn Hills, MI Supercharger",Auburn Hills,No state,48326-1309,800 Brown Road
 Bay City Supercharger,Bay City,MI,48706-9213,2980 E Wilder Rd
@@ -738,7 +745,7 @@ Reno Supercharger,Reno,NV,89502,3800 S Virginia St.
 Stateline Supercharger,Stateline,NV,89449,50 US-50
 Tonopah Supercharger,Tonopah,NV,89049,171 Main St.
 West Wendover Supercharger,West Wendover,NV,89883,810 W Wendover Blvd.
-Winnemucca Supercharger,Winnemucca,NV,89446,1985 W Winnemucca Blvd.
+"Winnemucca, NV Supercharger",Winnemucca,NV,89446,1985 W Winnemucca Blvd.
 "Ashland, NH Supercharger",Ashland,NH,03217,158 Main Street
 Hooksett (Northbound) Supercharger,Hooksett,NH,3106,Northbound I-93
 Hooksett (Southbound) Supercharger,Hooksett,NH,3106,Southbound I-93
@@ -758,6 +765,7 @@ Cranbury Supercharger,Cranbury,NJ,8512,Mile Marker 71.7 New Jersey Turnpike
 "Deptford, NJ Supercharger",Deptford,NJ,08096,1750 Deptford Center Road
 East Brunswick Supercharger,East Brunswick,NJ,8816,Mile Marker 78 New Jersey Turnpike North
 "East Brunswick, NJ - State Route 18 Supercharger",East Brunswick,NJ,8816,755 State Route 18
+"East Brunswick, NJ Supercharger",East Brunswick,NJ,8816,Mile Marker 78 New Jersey Turnpike North
 "Edgewater, NJ (coming soon)",Edgewater,NJ,No zipcode,No address given
 "Edison, NJ Supercharger",Edison,NJ,8837,55 Parsonage Rd.
 Egg Harbor Township Supercharger,Egg Harbor Township,NJ,8234,3121 Fire Road
@@ -767,7 +775,7 @@ Egg Harbor Township Supercharger,Egg Harbor Township,NJ,8234,3121 Fire Road
 "Hackensack, NJ (coming soon)",Hackensack,NJ,No zipcode,No address given
 Hamilton Township Supercharger,Hamilton,NJ,8691,425 Market Place Blvd
 "Jersey City, NJ - Mall Drive West Supercharger",Jersey City,NJ,07310-1615,30 Mall Drive West
-"Jersey City, NJ – 1st Street Supercharger",Jersey City,NJ,07302,160 First Street
+"Jersey City, NJ â€“ 1st Street Supercharger",Jersey City,NJ,07302,160 First Street
 "Kearny, NJ Supercharger",Kearny,NJ,7032,200 Harrison Avenue
 "Mahwah, NJ (coming soon)",Mahwah,NJ,No zipcode,No address given
 "Maple Shade, NJ Supercharger",Maple Shade,NJ,08052,2801 Route 73
@@ -1018,13 +1026,13 @@ Nashville-Brentwood,Nashville,TN,37027,1641 Westgate Circle
 Amarillo Supercharger,Amarillo,TX,79124,8231 West Amarillo Blvd.
 Arlington Supercharger,Arlington,TX,76011-5110,1200 Ballpark Way
 "Austin, TX (South) (coming soon)",Austin,TX,No zipcode,No address given
+"Austin, TX - Century Oaks Terrace Supercharger",Austin,TX,78758,11410 Century Oaks Terrace
 "Austin, TX - Downtown (coming soon)",Austin,TX,No zipcode,No address given
 "Austin, TX - Research Boulevard Supercharger",Austin,TX,78759,9607 Research Boulevard
 "Austin, TX Supercharger",Austin,TX,78752-0000,6406 N. Interstate 35 Frontage Road
 "Beaumont, TX (coming soon)",Beaumont,TX,No zipcode,No address given
 "Boerne, TX (coming soon)",Boerne,TX,No zipcode,No address given
 "Brownsville, TX  (coming soon)",Brownsville,TX,No zipcode,No address given
-"Cedar Park, TX (coming soon)",Cedar Park,TX,No zipcode,No address given
 Channelview Supercharger,Channelview,TX,777530,16311 East Fwy
 Childress Supercharger,Childress,TX,79201,"1300 Ave F NW Childress, Texas"
 Cisco Supercharger,Cisco,TX,76437,16851 IH 20
@@ -1059,7 +1067,7 @@ Kingsville Supercharger,Kingsville,TX,78363-2844,2400  South US Hwy 77
 Lindale Supercharger,Lindale,TX,75771,17044 I-20
 "Lubbock, TX (coming soon)",Lubbock,TX,No zipcode,No address given
 McAllen Supercharger,McAllen,No state,78501-0018,800 Convention Center Blvd
-Midland Supercharger,Midland,TX,79706-3525,Love’s Travel Stop
+Midland Supercharger,Midland,TX,79706-3525,Loveâ€™s Travel Stop
 Nacogdoches Supercharger,Nacogdoches,TX,75964-2629,2615 NW Stallings Dr
 Ozona Supercharger,Ozona,TX,76943,1307 Ave. A
 "Pecos, TX Supercharger",Pecos,TX,79772,100 East Pinehurst Street
@@ -1079,7 +1087,7 @@ Texarkana Supercharger,Texarkana,TX,75503-2434,3101 Mall Drive
 Three Rivers Supercharger,Three Rivers,TX,78071,2645 S. Hwy 37
 Van Horn Supercharger,Van Horn,TX,79855,1921 Frontage Rd
 Victoria Supercharger,Victoria,TX,77901,3107 S Laurent St.
-Waco Supercharger,Bellmead,TX,76705,701 Interstate 35
+"Waco, TX Supercharger",Bellmead,TX,76705,701 Interstate 35
 "Beaver, UT Supercharger",Beaver,UT,84713,Littlefield Interchange
 "Blanding, UT Supercharger",Blanding,UT,84511,12 N Grayson Parkway
 "Cedar City, UT (coming soon)",Cedar City,UT,No zipcode,No address given
@@ -1092,8 +1100,10 @@ Waco Supercharger,Bellmead,TX,76705,701 Interstate 35
 Price Supercharger,Price,UT,84501,925 Westwood Blvd.
 "Provo, UT (coming soon)",Provo,UT,No zipcode,No address given
 "Richfield, UT Supercharger",Richfield,UT,84701,20 W 1400 N
+"Salt Lake City, UT - South 300 West Supercharger",Salt Lake City,UT,84101,1038 South 300 West
 Salt Lake City-S. State Street,South Salt Lake City,UT,84115,2312 South State Street
-St. George Supercharger,St. George,UT,84770,1091 N Bluff St
+"St. George, UT - Convention Center Drive Supercharger",Saint George,UT,84790,1835 South Convention Center Drive
+"St. George, UT Supercharger",St. George,UT,84770,1091 N Bluff St
 Tooele Supercharger,Tooele,UT,84074,1568 East Saddleback Blvd.
 Tremonton Supercharger,Tremonton,UT,84337,2145 W Main Street
 "Berlin, VT Supercharger",Berlin,VT,5602,213 Paine Turnpike N
@@ -1108,7 +1118,7 @@ South Burlington Supercharger,South Burlington,VT,5043,222 Dorset Street
 "Charlottesville, VA Supercharger",Charlottesville,Vi,rgina 22901-0000,2100 Hydraulic Road
 Chester Supercharger,Chester,VA,23831,11701 Jefferson Davis Highway
 "Fairfax, VA (coming soon)",Fairfax,VA,No zipcode,No address given
-"Falls Church, VA (coming soon)",Falls Church,VA,No zipcode,No address given
+"Falls Church, VA Supercharger",Falls Church,VA,22043,7501 Leesburg Place
 "Farmville, VA - S Main Street Supercharger",Farmville,VA,23901,2016 S Main Street
 "Fredericksburg, VA Supercharger",Fredericksburg,VA,22407,10060 Jefferson Davis Highway
 "Glen Allen, VA Supercharger",Glen Allen,VA,23059,9950 Brook Rd
@@ -1184,7 +1194,7 @@ La Crosse Supercharger,Onalaska,WI,54650,2845 Midwest Dr
 "Lake Geneva, WI Supercharger",Lake Geneva,WI,53147,7036 Grand Geneva Way
 "Madison, WI (West) (coming soon)",Madison,WI,No zipcode,No address given
 "Madison, WI - E. Washington Ave. Supercharger",Madison,WI,53704,3801 E. Washington Ave
-"Madison, WI – East Towne Mall Supercharger",Madison,WI,53704,89 East Towne Mall
+"Madison, WI â€“ East Towne Mall Supercharger",Madison,WI,53704,89 East Towne Mall
 "Mauston, WI Supercharger",Mauston,WI,53948,640 McEvoy St
 "Milwaukee, WI (coming soon)",Milwaukee,WI,No zipcode,No address given
 "Oak Creek, WI Supercharger",Oak Creek,WI,53154-6801,171 West Town Square Way
