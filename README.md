@@ -9,12 +9,12 @@ This repository was created for the DSCI 511 course at Drexel University. The ov
 - `final_project.ipynb` - Main code that scrapes the Tesla website
 - `Database_Checker.ipynb` -  Main code used for Tesla and Federal comparison
 - `Folder /data` - Contains all data files 
- - `tesla_superchargers.csv` - Tesla dataset created after running code
- - `alt_fuel_stations (Oct 4 2020).csv` [Federal dataset](https://afdc.energy.gov/stations/#/analyze?country=US&fuel=ELEC&ev_levels=all&access=public&access=private) copy
+  - `tesla_superchargers.csv` - Tesla dataset created after running code
+  - `alt_fuel_stations (Oct 4 2020).csv` [Federal dataset](https://afdc.energy.gov/stations/#/analyze?country=US&fuel=ELEC&ev_levels=all&access=public&access=private) copy
 - `Folder /drafts` - Contains code versions used to scrape Tesla website
   - `10-11-2020.ipynb` - First version of code used for scraping
- - `Project 11-16-2020.ipynb` - Second version
- - `Project 11-23-2020.ipynb` - Third version 
+  - `Project 11-16-2020.ipynb` - Second version
+  - `Project 11-23-2020.ipynb` - Third version 
 - `DSCI 511 Project Scope.pdf` - PDF file of project scope
  
 ## Reason for Project:
