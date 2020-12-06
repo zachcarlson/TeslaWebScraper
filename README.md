@@ -15,7 +15,7 @@ This repository was created for the DSCI 511 course at Drexel University. The ov
   - `10-11-2020.ipynb` - First version of code used for scraping
   - `Project 11-16-2020.ipynb` - Second version
   - `Project 11-23-2020.ipynb` - Third version 
-- `DSCI 511 Project Scope.pdf` - PDF file of project scope
+- `Tesla Data Project Presentation.pptx` - PowerPoint slides for final presentation
  
 ## Reason for Project:
 The topic of interest arose from recent years, electric cars have been gaining 
