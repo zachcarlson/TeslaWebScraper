@@ -11,6 +11,7 @@ This repository was created for the DSCI 511 course at Drexel University. The ov
 - `Folder /data` - Contains all data files 
   - `tesla_superchargers.csv` - Tesla dataset created after running code
   - `alt_fuel_stations (Oct 4 2020).csv` [Federal dataset](https://afdc.energy.gov/stations/#/analyze?country=US&fuel=ELEC&ev_levels=all&access=public&access=private) copy
+  - `output.json` Initial JSON output for proof of concept, final version will *not* output this file.
 - `Folder /drafts` - Contains code versions used to scrape Tesla website
   - `10-11-2020.ipynb` - First version of code used for scraping
   - `Project 11-16-2020.ipynb` - Second version
